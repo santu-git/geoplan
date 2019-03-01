@@ -1,0 +1,26 @@
+{
+  "name": "geoplan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santu-git/geoplan.git"
+  },
+  "keywords": [
+    "Floorplan"
+  ],
+  "author": "santu <santu.cst08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santu-git/geoplan/issues"
+  },
+  "homepage": "https://github.com/santu-git/geoplan#readme",
+  "dependencies": {
+    "d3": "^5.9.1",
+    "d3-selection-multi": "^1.0.1"
+  }
+}
